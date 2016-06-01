@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "newDatasource": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "test",
+    "password": "Nymkama7",
+    "name": "newDatasource",
+    "connector": "mongodb",
+    "user": "externo"
+  }
+}
