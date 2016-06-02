@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "case": {
+    "dataSource": null,
+    "public": true
   }
 }

@@ -1,7 +1,10 @@
 {
   "db": {
+    "port": 27017,
+    "password": "Nymkama7",
     "name": "db",
-    "connector": "memory"
+    "connector": "mongodb",
+    "user": "externo"
   },
   "newDatasource": {
     "host": "localhost",
